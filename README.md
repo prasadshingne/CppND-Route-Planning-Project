@@ -2,7 +2,7 @@
 
 This repo contains the starter code for the Route Planning project.
 
-<img src="map.png" width="600" height="450" />
+<img src="map1.png" width="600" height="450" />
 
 ## Cloning
 
@@ -29,6 +29,8 @@ git clone git@github.com:udacity/CppND-Route-Planning-Project.git --recurse-subm
 * IO2D
   * Installation instructions for all operating systems can be found [here](https://github.com/cpp-io2d/P0267_RefImpl/blob/master/BUILDING.md)
   * This library must be built in a place where CMake `find_package` will be able to find it
+
+I used the Udacity project workspace in the interest of time.
 
 ## Compiling and Running
 
@@ -58,4 +60,3 @@ The testing executable is also placed in the `build` directory. From within `bui
 ```
 ./test
 ```
-
