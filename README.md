@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
+This project implements a route planner using A* search algorithm on an OpenStreetMap. It takes in two points in terms of x and y coordinates and finds the shortest path between the points and draws it on the map.
 
 <img src="map1.png" width="600" height="450" />
 
